@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ba0f3/scram.nim.svg?branch=master)](https://travis-ci.org/ba0f3/scram.nim)
+[![Test](https://github.com/nim-community/scram.nim/actions/workflows/ci.yml/badge.svg)](https://github.com/nim-community/scram.nim/actions/workflows/ci.yml)
 
 # scram.nim
 Salted Challenge Response Authentication Mechanism (SCRAM)
